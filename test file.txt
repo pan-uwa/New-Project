@@ -1,6 +1,7 @@
-You will be able to find where your repositories are being stored under the ï¿½default storage directoryï¿½. I changed this to store my repositories in a Dropbox folder. I use Dropbox liberally in conjunction with GitHub so that I can work on projects across devices and then push code up to GitHub once the project has reached a level of stability.
+You will be able to find where your repositories are being stored under the ‘default storage directory’. I changed this to store my repositories in a Dropbox folder. I use Dropbox liberally in conjunction with GitHub so that I can work on projects across devices and then push code up to GitHub once the project has reached a level of stability.
 
 You should now know where your repos are stored. Navigate to that directory and open up the Github_Tutorial.ino file.
+
 alt text
 
-From the Arduino IDE or Windows Notepad letï¿½s correct the variable declaration from byte to an int. Save the modification and return to the GitHub GUI:
+From the Arduino IDE or Windows Notepad let’s correct the variable declaration from byte to an int. Save the modification and new test to the GitHub GUI:
